@@ -2,7 +2,9 @@
 Here I designed a python program to access most of the Dish TV Channel in India. The python program will redirect the Live Stream feed into the VLC Player.
 
 List of channel:- 
-1: None                    2: ABP News                3: Amar Ujala             
+1. None
+2. ABP News                
+3. Amar Ujala             
 4: B4U Kadak               5: B4U Movies              6: B4U Movies             
 7: B4U Music               8: B4U Music               9: B4U Plus               
 10: BBC World News         11: Bhakti Sagar           12: Bhakti Sagar          
