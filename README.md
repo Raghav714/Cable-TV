@@ -29,3 +29,6 @@ Here I designed a python program to access most of the Dish TV Channel in India.
 
 ## How to Run the Program
 $ Python3 stream.py
+
+
+### Note:- The working of this system is tested on Linux like Operating System
