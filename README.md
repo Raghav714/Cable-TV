@@ -1,7 +1,8 @@
 # Cable-TV
 Here I designed a python program to access most of the Dish TV Channel in India. The python program will redirect the Live Stream feed into the VLC Player.
 
-List of channel:- 
+## List of channels available are: 
+
 1: None                    2: ABP News                3: Amar Ujala             4: B4U Kadak               5: B4U Movies              6: B4U Movies              7: B4U Music               8: B4U Music               9: B4U Plus               10: BBC World News         11: Bhakti Sagar           12: Bhakti Sagar          
 13: Bollywood Classic      14: Bollywood Now          15: Boogle Bollywood      16: Boss TV                17: Cine Voice             18: Cine Voice            
 19: Cinema TV              20: CNBC Awaaz             21: CNBC Bajar            22: CNBC TV18              23: CNBC TV18              24: D Sport               
@@ -21,3 +22,10 @@ List of channel:-
 103: Vasantham             104: Vathanam TV           105: Vendharm TV          106: Vendharm TV           107: Vendharm TV           108: Vyas Higher Education Channel
 109: Wow Music             110: Wow Music             111: Y                    112: Zee Action            113: Zee Aflam             114: Zee Bioskop          
 115: Zee Bioskop           116: Colors HD             117: Zee Cinema           118: star gold
+
+## Prerequisite for running the code
+1. Install Python3
+2. Install VLC Player
+
+## How to Run the Program
+$ Python3 stream.py
